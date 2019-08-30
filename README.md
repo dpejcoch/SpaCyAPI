@@ -11,7 +11,7 @@ Install:
 docker run -d -p 80:80 -p 81:81 dpejcoch/spacyapi:latest
 ```
 
-When building from Dockerfile:
+When built from Dockerfile:
 ```
 docker build -t dpejcoch/spacyapi:latest .
 ```
